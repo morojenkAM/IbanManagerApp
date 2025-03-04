@@ -1,0 +1,143 @@
+.app-header {
+    background-color: #1e4b8f;
+    color: white;
+    padding: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.desktop-nav {
+    display: flex;
+    margin-left: 30px;
+}
+
+.desktop-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    position: relative;
+}
+
+.desktop-nav a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.user-section {
+    display: flex;
+    align-items: center;
+}
+
+.user-info {
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+.raion-badge {
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.logout-button {
+    background-color: #d32f2f;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.logout-button:hover {
+    background-color: #b71c1c;
+}
+
+.mobile-menu-button {
+    display: none;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.mobile-menu {
+    display: none;
+    background-color: #163b72;
+    padding: 10px 0;
+}
+
+.mobile-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.mobile-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mobile-user-section {
+    padding: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 10px;
+}
+
+.mobile-user-info {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.mobile-raion-badge {
+    display: block;
+    margin-top: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    width: fit-content;
+}
+
+.mobile-logout-button {
+    background-color: #d32f2f;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100%;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .desktop-nav {
+        display: none;
+    }
+
+    .user-section {
+        display: none;
+    }
+
+    .mobile-menu-button {
+        display: block;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+}

@@ -1,0 +1,160 @@
+/* Login.css - Stilizarea paginii de login */
+
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f7fa;
+    padding: 16px;
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.login-header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1e4b8f;
+    margin-bottom: 8px;
+}
+
+.login-header p {
+    color: #666;
+    font-size: 14px;
+}
+
+.login-error {
+    background-color: #ffebee;
+    color: #d32f2f;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border-left: 4px solid #d32f2f;
+}
+
+.login-form-group {
+    margin-bottom: 16px;
+}
+
+.login-form-group label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 6px;
+    font-size: 14px;
+    color: #333;
+}
+
+.login-input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.login-input:focus {
+    border-color: #1e4b8f;
+    box-shadow: 0 0 0 3px rgba(30, 75, 143, 0.2);
+    outline: none;
+}
+
+.login-button {
+    width: 100%;
+    background-color: #1e4b8f;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 12px 16px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 8px;
+    transition: background-color 0.2s;
+}
+
+.login-button:hover:not(:disabled) {
+    background-color: #16376b;
+}
+
+.login-button:disabled {
+    background-color: #9aa5b1;
+    cursor: not-allowed;
+}
+
+/* Spinner animation for loading state */
+.login-spinner {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: white;
+    animation: spin 1s infinite linear;
+    margin-right: 8px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.login-credentials {
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid #eee;
+}
+
+.login-credentials h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #666;
+}
+
+.credential-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 8px;
+}
+
+.credential-item {
+    background-color: #f8f9fa;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.credential-role {
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+.credential-role.admin {
+    color: #4a148c;
+}
+
+.credential-role.operator {
+    color: #1565c0;
+}
+
+.credential-role.raion {
+    color: #2e7d32;
+}
+
+.credential-details {
+    font-size: 12px;
+    color: #666;
+}

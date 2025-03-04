@@ -1,0 +1,128 @@
+.iban-search-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.search-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.search-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+.search-row label {
+    width: 120px;
+    font-weight: normal;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.select-container {
+    position: relative;
+    width: 450px;
+}
+
+.select-container select {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: white;
+}
+
+.search-button {
+    background-color: #1e4b8f;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+}
+
+.search-button:hover {
+    background-color: #16376b;
+}
+
+.search-button:disabled {
+    background-color: #a0a0a0;
+    cursor: not-allowed;
+}
+
+.button-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.error-message {
+    color: #d32f2f;
+    background-color: #ffebee;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.export-button {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.export-button button {
+    background: none;
+    border: none;
+    color: #1e4b8f;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.results-container {
+    margin-top: 30px;
+}
+
+.results-container h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.results-table th,
+.results-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.results-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.results-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.results-table tr:hover {
+    background-color: #f1f1f1;
+}
