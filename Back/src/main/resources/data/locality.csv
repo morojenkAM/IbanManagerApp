@@ -1,0 +1,101 @@
+cdc,name,parent_cdc
+0100,Chişinău,
+0110,Sectorul Botanica,0100
+0111,Sîngera,0110
+0112,Dobrogea,0111
+0113,Revaca,0111
+5511,Băcioi,0111
+5514,Brăila,5511
+5512,Frumuşica,5511
+5513,Străisteni,5511
+0120,Sectorul Buiucani,0100
+0121,Durleşti,0120
+0122,Vatra,0120
+0123,Condriţa,0120
+0124,Ghidighici,0120
+0130,Sectorul Centru,0100
+0131,Codru,0130
+0140,Sectorul Ciocana,0100
+0141,Vadul lui Vodă,0140
+3121,Văduleni,0141
+0142,Bubuieci,0140
+0143,Bîc,0142
+1033,Humuleşti,0142
+3120,Budeşti,0140
+0149,Coloniţa,0140
+0144,Cruzeşti,0140
+0145,Ceroborta,0144
+0146,Tohatin,0140
+0147,Buneţi,0146
+0148,Cheltuitori,0146
+0150,Sectorul Rîşcani,0100
+0151,Cricova,0150
+0152,Ciorescu,0150
+0153,Făureşti,0152
+0154,Goian,0152
+0155,Grătieşti,0150
+0156,Hulboaca,0155
+3153,Stăuceni,0150
+3154,Goianul Nou,3153
+0300,Bălţi,
+0301,Elizaveta,0300
+4839,Sadovoe,0300
+0500,Bender,
+0501,Proteagailovca,0500
+1001,Anenii Noi,
+1040,Albiniţa,1001
+1010,Beriozchi,1001
+1011,Hîrbovăţul Nou,1001
+1039,Ruseni,1001
+1022,Socoleni,1001
+1012,Botnăreşti,
+1013,Salcia,1012
+1014,Bulboaca,
+1015,Calfa ,
+1016,Calfa Nouă,1015
+1017,Chetrosu,
+1046,Todireşti,1017
+1018,Chirca,
+1019,Botnăreştii Noi,1018
+1020,Ciobanovca,
+1048,Balmaz,1020
+1049,Mirnoe,1020
+1047,Troiţa Nouă,1020
+1021,Cobusca Nouă,
+1023,Cobusca Veche,
+1024,Floreşti,1023
+1026,Delacău,
+1027,Floreni,
+1028,Geamăna,
+1029,Batîc,1028
+1030,Gura Bîcului,
+1031,Hîrbovăţ,
+1032,Maximovca,
+1034,Mereni,
+1036,Merenii Noi,
+2328,Ochiul Roş,
+2329,Picus,2328
+1037,Puhăceni,
+1038,Roşcani,
+1041,Speia,
+1043,Teliţa,
+1044,Teliţa Nouă,1043
+1050,Ţînţăreni,
+1025,Creţoaia,1050
+0502,Varniţa,
+2338,Zolotievca,
+2339,Larga,0502
+2340,Nicolaevca,0502
+1201,Basarabeasca,
+1210,Abaclia,
+1211,Başcalia,
+1212,Carabetovca,
+1213,Iordanovca,
+1214,Iserlia,
+1215,Bogdanovca,1214
+1216,Carabiber,1214
+1217,Ivanovca,1214
+1218,Sadaclia,
+1401,Briceni,
+1402,Lipcani,
+1410,Balasineşti,
