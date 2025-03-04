@@ -1,0 +1,226 @@
+/* UserManagement.css */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.add-user-btn {
+    display: flex;
+    align-items: center;
+    background-color: #2a9d8f;
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+}
+
+.add-user-btn:hover {
+    background-color: #237c6f;
+}
+
+.plus-icon {
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+/* Message styles */
+.error-message, .success-message {
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.error-message {
+    background-color: #fff4f4;
+    border-left: 4px solid #f44336;
+    color: #d32f2f;
+}
+
+.success-message {
+    background-color: #f0fff4;
+    border-left: 4px solid #4caf50;
+    color: #2e7d32;
+}
+
+/* Loading spinner */
+.loading-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.loading-spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-left: 4px solid #1e4b8f;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Table styles */
+.table-container {
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.users-table th {
+    background-color: #f8f9fa;
+    padding: 10px 15px;
+    text-align: left;
+    font-size: 12px;
+    color: #555;
+    font-weight: 600;
+    border-bottom: 2px solid #eee;
+}
+
+.users-table td {
+    padding: 10px 15px;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    color: #333;
+}
+
+.users-table tr:hover {
+    background-color: #f9f9f9;
+}
+
+.username-cell {
+    font-weight: 500;
+}
+
+/* Role badges */
+.roles-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.role-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.role-badge.admin {
+    background-color: #e8eaf6;
+    color: #3f51b5;
+}
+
+.role-badge.operator {
+    background-color: #e3f2fd;
+    color: #1e88e5;
+}
+
+.role-badge.raion {
+    background-color: #e8f5e9;
+    color: #43a047;
+}
+
+/* Action buttons in table */
+.action-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.edit-button, .delete-button {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0;
+    text-decoration: none;
+}
+
+.edit-button {
+    color: #1e4b8f;
+}
+
+.edit-button:hover {
+    color: #16376b;
+    text-decoration: underline;
+}
+
+.delete-button {
+    color: #d32f2f;
+}
+
+.delete-button:hover {
+    color: #b71c1c;
+    text-decoration: underline;
+}
+
+.edit-icon, .delete-icon {
+    margin-right: 4px;
+}
+
+.empty-message {
+    text-align: center;
+    padding: 20px;
+    color: #777;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .action-buttons {
+        width: 100%;
+    }
+
+    .add-user-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .table-container {
+        overflow-x: auto;
+    }
+}

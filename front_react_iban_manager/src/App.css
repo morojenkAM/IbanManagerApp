@@ -1,0 +1,180 @@
+/* App.css - Stilizare globală pentru întreaga aplicație */
+
+:root {
+    --primary-color: #1e4b8f;
+    --primary-dark: #16376b;
+    --primary-light: #e6f0ff;
+    --secondary-color: #e63946;
+    --success-color: #2a9d8f;
+    --warning-color: #e9c46a;
+    --error-color: #d32f2f;
+    --text-dark: #333333;
+    --text-medium: #666666;
+    --text-light: #999999;
+    --background-color: #f4f5f7;
+    --card-background: #ffffff;
+    --border-color: #dcdfe6;
+    --border-radius: 4px;
+    --transition-speed: 0.2s;
+    --box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-dark);
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container global */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    font-size: 14px;
+    transition: border-color var(--transition-speed), box-shadow var(--transition-speed);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(30, 75, 143, 0.2);
+}
+
+
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: var(--border-radius);
+    font-weight: 600;
+    transition: background-color var(--transition-speed);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 10px 16px;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: #f0f2f5;
+    color: var(--text-dark);
+    padding: 10px 16px;
+}
+
+.btn-secondary:hover {
+    background-color: #e0e2e5;
+}
+
+.btn-danger {
+    background-color: var(--error-color);
+    color: white;
+    padding: 10px 16px;
+}
+
+.btn-danger:hover {
+    background-color: #b71c1c;
+}
+
+
+.alert {
+    padding: 12px 16px;
+    border-radius: var(--border-radius);
+    margin-bottom: 16px;
+}
+
+.alert-error {
+    background-color: #ffebee;
+    color: var(--error-color);
+    border-left: 4px solid var(--error-color);
+}
+
+.alert-success {
+    background-color: #e8f5e9;
+    color: var(--success-color);
+    border-left: 4px solid var(--success-color);
+}
+
+
+svg {
+    width: 20px !important;
+    height: 20px !important;
+    max-width: 100%;
+}
+
+
+.icon-xs {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+.icon-sm {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.icon-md {
+    width: 24px !important;
+    height: 24px !important;
+}
+
+.icon-lg {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+
+.loading-spinner {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s linear infinite;
+    margin: 16px auto;
+}
+
+.loading-spinner-sm {
+    width: 16px;
+    height: 16px;
+    border-width: 2px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 12px;
+    }
+}
