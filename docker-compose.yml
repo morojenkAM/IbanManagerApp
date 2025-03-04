@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./front_react_iban_manager
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - iban-network
+
+  backend:
+    build:
+      context: ./Back
+    ports:
+      - "8081:8081"
+    depends_on:
+      - db
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:sqlserver://db:1433;databaseName=iban_manager;encrypt=false
+      - SPRING_DATASOURCE_USERNAME=sa
+      - SPRING_DATASOURCE_PASSWORD=YourStrongPassword!
+    networks:
+      - iban-network
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword!
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/opt/mssql
+    networks:
+      - iban-network
+
+networks:
+  iban-network:
+    driver: bridge
+
+volumes:
+  mssql-data:
