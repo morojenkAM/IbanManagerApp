@@ -1,0 +1,363 @@
+code,label
+111110,Impozit pe venitul retinut din salariu
+111121,Impozitul pe venitul persoanelor fizice spre plata/achitat
+111122,Restituirea impozitului pe venitul persoanelor fizice
+111123,Sume desemnate procentual din impozitul pe venitul persoanelor fizice
+111124,Impozitul pe venitul persoanelor fizice ce desfasoara activitati indepedente in domeniul comertului
+111125,Impozit pe venitul persoanelor fizice in domeniul transportului rutier de persoane in regim de taxi
+111130,Impozit pe venitul aferent operatiunilor de predare in posesie si/sau folosinta a proprietatii imobiliare
+111210,Impozit pe venitul obtinut din activitatea de intreprinzator
+111220,Impozit pe venitul retinut la sursa de plata
+111230,Impozit pe venit retinut din sumele dividendelor achitate
+111240,Impozitul pe venitul din activitatea operationala
+111250,Impozit pe venit obtinut din activitati independente
+111261,Impozit pe venitul obtinut din activitati profesionale in sectorul justitiei
+111262,Impozit pe venitul obtinut din activitati profesionale in domeniul sanatatii
+113161,"Impozitul funciar al persoanelor juridice si fizice, inregistrate in calitate de intreprinzator"
+113171,Impozitul funciar al persoanelor fizice-cetateni
+113210,Impozitul pe bunurile imobiliare ale persoanelor juridice
+113220,Impozitul pe bunurile imobiliare ale persoanelor fizice
+113230,Impozitul pe bunurile imobiliare achitat de catre persoanele juridice si fizice inregistrate in calitate de intreprinzator din valoarea estimata (de piata) a bunurilor imobiliare
+113240,Impozitul pe bunurile imobiliare achitat de catre persoanele fizice cetateni din valoarea estimata (de piata) a bunurilor imobiliare
+113250,Impozitul pe avere
+113311,Impozit privat incasat in bugetul de stat
+113312,Impozit privat incasat în bugetul local de nivelul II
+113313,Impozit privat incasat in bugetul local de nivelul I
+113611,Impozitul pe avere incasat in bugetul de stat
+114110,Taxa pe valoarea adaugata la marfurile produse si serviciile prestate pe teritoriul Republicii Moldova
+114120,Taxa pe valoarea adaugata la marfurile importate
+114130,Restituirea taxei pe valoarea adaugata
+114211,"Accize la rachiu, lichioruri, divinuri si alte bauturi spirtoase produse pe teritoriul Republicii Moldova"
+114212,"Accize la rachiu, lichioruri, divinuri si alte bauturi spirtoase importate"
+114213,Accize la vinuri produse pe teritoriul Republicii Moldova
+114214,Accize la vinuri importate
+114215,Accize la berea produsa pe teritoriul Republicii Moldova
+114216,Accize la berea importata
+114221,Accize la produsele din tutun produse pe teritoriul Republicii Moldova
+114222,Accize la produsele din tutun importate
+114232,Accize la autoturismele importate
+114241,Accize la produsele petroliere produse pe teritoriul Republicii Moldova
+114242,Accize la produsele petroliere importate
+114252,Accize la gazele lichefiate importante
+114271,Accize la alte marfuri produse pe teritoriul Republicii Moldova
+114272,Accize la alte marfuri importate
+114290,Restituirea accizelor
+114411,Taxa de piata
+114412,Taxa pentru amenajarea teritoriului
+114413,"Taxa pentru prestarea serviciilor de transport auto de calatori pe teritoriul municipiilor, oraselor si satelor (comunelor)"
+114414,Taxa de plasare (amplasare) a publicitatii (reclamei)
+114415,Taxa pentru dispozitivele publicitare
+114416,Taxa pentru parcare
+114417,Taxa pentru parcaj
+114418,Taxa pentru unitatile comerciale si/sau de prestari servicii
+114421,Taxa pentru cazare
+114422,Taxa balneara
+114423,Taxa pentru aplicarea simbolicii locale
+114424,Taxa pentru efectuarea expertizei ecologice
+114425,Taxa de la investitori sau proprietarii constructiilor pentru elaborarea documentelor normative in constructie
+114426,Taxa pentru salubrizare
+114521,Taxa de licenta pentru anumite genuri de activitate incasata in bugetul de stat
+114522,Taxa pentru patenta de intreprinzinzator
+114523,"Taxa pentru eliberarea autorizatiilor de deschidere si prelungire a activitatii reprezentantelor, firmelor, bancilor, organizatiilor straine"
+114524,Taxa pentru comercializarea gazelor naturale destinate utilizarii in calitate de carburanti pentru unitate de transport auto
+114525,Taxa de eliberare a autorizatiilor pentru transporturi rutiere internationale
+114526,Taxa de licenta pentru anumite genuri de activitate incasata in bugetul local de nivelul II
+114531,"Plati pentru emisiile de poluanti din sursele mobile care folosesc benzina (etilata, neetilata), carburant pentru motoare de avion sau motorina"
+114533,Plati pentru poluarea mediului in limite normativelor stabilite
+114534,"Taxa pentru marfurile care, in procesul utilizarii, cauzeaza poluarea mediului"
+114535,Plati pentru poluarea mediului in limitele/ cu depasirea normativelor stabilite
+114536,Alte plati pentru poluarea mediului
+114539,Alte plati aferente poluarii mediului
+114611,Taxa pentru apa
+114612,Taxa pentru extragerea mineralelor utile
+114613,Taxa pentru lemnul eliberat pe picior
+114621,Taxa pentru efectuarea prospectiunilor geologice
+114622,Taxa pentru efectuarea explorarilor geologice
+114623,"Taxa pentru folosirea spatiilor subterane in scopul constructiei obiectivelor subterane, altele decit cele destinate extractiei mineralelor utile"
+114624,"Taxa pentru exploatarea  constructiilor subterane in scopul desfasurarii activitatii de intreprinzator, altele decit cele destinate extractiei mineralelor utile"
+114632,"Taxa pentru folosirea drumurilor de catre autovehiculele neinmatriculate in Republica Moldova a caror masa totala, sarcina masica pe axa sau ale caror dimensiuni depasesc limitele admise"
+114633,Taxa pentru folosirea drumurilor de catre autovehiculele inmatriculate in Republica Moldova
+114634,"Taxa pentru folosirea drumurilor de catre autovehiculele inmatriculate in Republica Moldova a caror masa totala, sarcina masica pe axa sau ale caror dimensiuni depasesc limitele admise"
+114635,Taxa pentru folosirea zonei de protectie a drumurilor din afara perimetrului localitatilor pentru efectuarea lucrarilor de constructie si montaj
+114636,Taxa pentru folosirea zonei de protectie a drumurilor din afara perimetrului localitatilor pentru amplasarea publicitatii exterioare
+114637,Taxa pentru folosirea zonei de protectie a drumurilor din afara perimetrului localitatilor pentru amplasarea obiectivelor de prestare a serviciilor rutiere
+114638,Taxa pentru folosirea drumurilor Republicii Moldova de catre autovehicule neinmatriculate in republica Moldova (vinieta)
+114640,Plata obligatorie a producatorilor de produse vitivinicole
+115110,Taxa vamala
+115120,Taxa speciala
+115610,Taxa pentru efectuarea procedurilor vamale
+115620,Taxa consulara
+121100,Contributii de asigurari sociale de stat obligatorii virate de angajatori
+121200,Contributii individuale de asigurari sociale de stat obligatorii
+121310,"Contributii de asigurari sociale de stat obligatorii, virate de persoanele fizice ce isi desfasoara activitate pe cont propriu"
+121320,Contributii de asigurari sociale de stat virate de persoanele fizice care au incheiat contract individual
+121330,Contributii de asigurari sociale de stat obligatorii virate de titularii de patenta de intreprinzator
+121340,"Contributii de asigurari sociale de stat obligatorii, virate de persoanele fizice, proprietarii de terenuri agricole"
+121410,Majorarea de intirziere (penalitatea) calculata pentru neachitarea in termen de catre angajatori a contributiilor de asigurari sociale de stat obligatorii
+121420,Majorarea de intirziere (penalitatea) calculata pentru neachitarea in termen a contributiilor individuale de asigurari sociale de stat obligatorii
+122100,"Prime de asigurare obligatorie de asistenta medicala in forma de contributie procentuala la salariu si la alte recompense, achitate de angajatori si angajati"
+122200,"Prime de asigurare obligatorie de asistenta medicala in suma fixa, achitate de persoane fizice cu domiciliul permanent in Republica Moldova"
+131111,Granturi curente primite de la guvernele altor state pentru sustinerea bugetului de stat
+131112,Granturi curente primite de la guvernele altor state pentru sustinerea bugetului local de nivelul 2
+131113,Granturi curente primite de la guvernele altor state pentru sustinerea bugetului local de nivelul 1
+131121,Granturi curente primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul de stat
+131122,Granturi curente primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul local de nivelul 2
+131123,Granturi curente primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul local de nivelul 1
+131211,Granturi capitale primite de la guvernele altor state pentru sustinerea bugetului de stat
+131212,Granturi capitale primite de la guvernele altor state pentru sustinerea bugetul local de nivelul 2
+131213,Granturi capitale primite de la guvernele altor state pentru sustinerea bugetul local de nivelul 1
+131221,Granturi capitale primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul de stat
+131222,Granturi capitale primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul local de nivelul 2
+131223,Granturi capitale primite de la guvernele altor state pentru proiecte finantate din surse externe pentru bugetul local de nivelul 1
+132111,Granturi curente primite de la organizatiile internationale pentru sustinerea bugetului de stat
+132112,Granturi curente primite de la organizatiile internationale pentru sustinerea bugetului local de nivelul 2
+132113,Granturi curente primite de la organizatiile internationale pentru sustinerea bugetului local de nivelul 1
+132121,Granturi curente primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul de stat
+132122,Granturi curente primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul local de nivelul 2
+132123,Granturi curente primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul local de nivelul 1
+132211,Granturi capitale primite de la organizatiile internationale pentru sustinerea bugetului de stat
+132212,Granturi capitale primite de la organizatiile internationale pentru sustinerea bugetului local de nivelul 2
+132213,Granturi capitale primite de la organizatiile internationale pentru sustinerea bugetului local de nivelul 1
+132221,Granturi capitale primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul de stat
+132222,Granturi capitale primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul local de nivelul 2
+132223,Granturi capitale primite de la organizatiile internationale pentru proiecte finantate din surse externe pentru bugetul local de nivelul 1
+141111,Dobinzi incasate la soldurile mijloacelor bugetare la conturile bancare
+141112,Dobinzi incasate in bugetul de stat la soldurile mijloacelor banesti la conturile bancare ale proiectelor finantate din surse externe
+141113,Dobinzi incasate in bugetul local de nivelul II la soldurile mijloacelor banesti la conturile bancare ale  proiectelor finantate din surse externe
+141114,Dobinzi incasate in bugetul local de nivelul I la soldurile mijloacelor banesti la conturile bancare ale proiectelor finantate din surse externe
+141115,Dobinzi incasate la soldurile mijloacelor banesti la conturile bancare ale bugetului asigurarilor sociale de stat
+141116,Dobinzi incasate la soldurile mijloacelor banesti la conturile bancare ale fondurilor de asigurare obligatorie de asistenta medicala
+141117,Dobinzi incasate la soldurile mijloacelor banesti la conturile bancare ale proiectelor finantate din surse externe conform prevederilor acordurilor
+141121,Dobinzi incasate in bugetul de stat la soldurile mijloacelor bugetare la conturile depozitare bancare
+141122,Dobinzi incasate in bugetul local de nivelul II la soldurile mijloacelor bugetare la conturile depozitare bancare
+141123,Dobinzi incasate in bugetul local de nivelul I la soldurile mijloacelor bugetare la conturile depozitare bancare
+141124,Dobinzi incasate de la plasarea soldurilor mijloacelor banesti ale bugetului asigurarilor sociale de stat la conturile depozitare bancare
+141125,Dobinzi incasate de la plasarea soldurilor mijloacelor banesti ale fondurilor de asigurare obligatorie de asistenta medicala la conturile depozitare bancare
+141131,Dobinzi incasate la valorile mobiliare de stat procurate din contul excedentului de mijloacelor banesti ale excedentului bugetului asigurarilor sociale de stat
+141141,"Dobinzi si alte plati incasate in bugetul de stat la imprumuturile acordate, imprumuturile recreditate si mijloacele dezafectate de la buget pentru onorarea garantiilor de stat"
+141142,"Dobinzi si alte plati incasate in bugetul local de nivelul II la imprumuturile acordate, imprumuturile recreditate si mijloacele dezafectate de la buget pentru onorarea garantiilor de stat"
+141143,"Dobinzi si alte plati incasate in bugetul local de nivelul I la imprumuturile acordate, imprumuturile recreditate si mijloacele dezafectate de la buget pentru onorarea garantiilor de stat"
+141151,Dobinzi si alte plati incasate la imprumuturile acordate de la bugetele de nivelul II la bugetele de nivelul I
+141152,Dobinzi si alte plati incasate la imprumuturile acordate si imprumuturile recreditate bugetelor de alt nivel
+141210,Soldul profitului net al Bancii Nationale a Moldovei
+141221,Dividende primite de la cota parte a proprietatii publice in societatile pe actiuni in bugetul de stat
+141222,Dividende primite de la cota parte a proprietatii publice in societatile pe actiuni in bugetul local de nivelul 2
+141223,Dividende primite de la cota parte a proprietatii publice in societatile pe actiuni in bugetul local de nivelul 1
+141231,Defalcari de la profitul net al intreprinderilor de stat (municipale) in bugetul de stat
+141232,Defalcari de la profitul net al intreprinderilor de stat (municipale) in bugetul local de nivelul 2
+141233,Defalcari de la profitul net al intreprinderilor de stat (municipale) in bugetul local de nivelul 1
+141241,Mijloace incasate din depasirea veniturilor asupra cheltuielilor pe autoritati/institutii publice la autogestiune
+141511,Arenda pentru resursele naturale incasata in bugetul de stat
+141512,Arenda pentru resursele naturale incasata in bugetul local de nivelul 2
+141513,Arenda pentru resursele naturale incasata in bugetul local de nivelul 1
+141521,Arenda terenurilor cu destinatie agricola incasata in bugetul local de nivelul II
+141522,Arenda terenurilor cu destinatie agricola incasata in bugetul local de nivelul I
+141523,Arenda terenurilor cu alta destinatie decit cea agricola incasata in bugetul local de nivelul 2
+141531,Arenda terenurilor cu alta destinatie decit cea agricola incasata in bugetul de stat
+141532,Arenda terenurilor cu alta destinatie decit cea agricola incasatai bugetul local de nivelul II
+141533,Arenda terenurilor cu alta destinatie decit cea agricola incasata in bugetul local de nivelul I
+141540,Venituri din concesiuni si inchirieri
+141541,"Redeventa din concensionarea activelor si terenurilor,  incasata in bugetul de stat"
+141542,"Redeventa din concensionarea activelor si terenurilor, incasata in bugetul local de nivelul II"
+141543,"Redeventa din concensionarea activelor si terenurilor,  incasata in bugetul local de nivelul I"
+142211,Taxa de organizare a licitatiilor si loteriilor pe teritoriul unitatii administrativ-teritoriale
+142214,Plata pentru certificatele de urbanism si autorizarile de construire sau desfiintare in bugetul local de nivelul 2
+142215,Plata pentru certificatele de urbanism si autorizaile de construire sau desfiintare in bugetul local de nivelul 1
+142216,Taxa de la posesorii de ciini
+142217,Taxa speciala pentru asigurarea stabilitatii financiare
+142218,Taxa pentru emiterea solutiei fiscale individuale anticipate
+142219,Taxele percepute de la participantii privati pentru schimbul de date prin platforma interoperabilitate
+142220,Taxa de stat
+142231,Incasari de la vinzarea averii si valutei confiscate incasate in bugetul de stat
+142232,Incasari de la vinzarea averii si valutei confiscate incasate in bugetul local de nivelul II
+142233,Incasari de la vinzarea averii si valutei confiscate incasate in bugetul local de nivelul I
+142234,"Recuperarea bunurilor infractionale indisponibilizate prin hotarire judecatoreasca  definitiva,incasata in bugetul de stat"
+142235,"Mijloace incasate la bugetul de stat in calitate de prejudicii, conform documentelor executorii, inclusiv din succesiune"
+142236,"Mijloace incasate in bugetul de stat de la confiscarea definitiva a marfurilor sau incasarea contravalorii acestora, administrate de organele vamale"
+142237,Mijloace incasate la bugetul asigurarilor sociale de stat conform documentelor executorii privind raspunderea subsidiara
+142241,Plata lunara pentru prestarea serviciilor de telefonie mobila
+142242,Plata suplimentara obligatorie obtinuta de la perfectarea si eliberarea certificatului de inmatriculare a automobilului
+142243,Mijloace incasate in bugetul de stat in legatura cu excluderea terenurilor din circuitul agricol
+142245,Taxa la cumpararea valutei straine de catre persoanele fizice in casele de schimb valutar
+142246,Incasari din salariu net al executantului serviciului civil
+142248,Mijloace incasate in bugetul local de nivelul II in legatura cu excluderea terenurilor din circuitul agricol
+142249,Mijloace incasate in bugetul local de nivelul I in legatura cu excluderea terenurilor din circuitul agricol
+142251,Plata pentru locatiunea bunurilor patrimoniului public incasata in bugetul local de nivelul II
+142252,Plata pentru locatiunea bunurilor patrimoniului public incasata in bugetul local de nivelul I
+142310,Incasari de la prestarea serviciilor cu plata
+142320,Plata pentru locatiunea bunurilor patrimoniului public
+142340,Contributiile achitate conform schemei de obligatii in domeniul eficientei energetice
+142391,Alte venituri ale institutiilor bugetare
+143111,Amenzi si sanctiuni contraventionale incasate in bugetul de stat
+143112,"Amenzi si sanctiuni contraventionale, aplicate pentru neachitarea vinietei, incasate in bugetul de stat"
+143113,Amenzi aplicate de catre agentii constatatori din cadrul subdiviziunilor Inspectoratului General al Politiei
+143114,Amenzi aplicate de catre agenti constatatori din cadrul Autoritatii Administrative Agentia Nationala Transport Auto
+143115,Amenzi aplicate de catre Agentia Achizitii Publice
+143116,Amenzi aplicate de  Inspectoratul pentru Protectia Mediului
+143117,Amenzi aplicate de Consiliul Concurentei
+143118,Amenzi aplicate de Inspectoratul Genereal de Carabineri
+143120,Amenzi si sanctiuni contraventionale incasate in bugetul local de nivelul 2
+143130,Amenzi si sanctiuni contraventionale incasate in bugetul local de nivelul 1
+143140,Amenzi si sanctiuni contraventionale incasate in fondurile asigurarilor obligatorii de asistenta in medicina
+143150,Amenzi si sanctiuni contraventionale incasate in bugetul asigurarilor sociale de stat
+143210,Amenzi aplicate de Inspectoratul national de patrulare
+143220,Amenzi aplicate de sectiile de supraveghere si control ale traficului rutier
+143230,Amenzi aplicate de Inspectoratul national de patrulare pentru incalcarea traficului rutier constatate cu ajutorul mijloacelor foto-video
+143241,"Amenzi aplicate de subdiviziunile Inspectoratului General al Politiei pentru incalcarea traficului rutier constatate cu ajutorul mijloacelor foto-video, incasate in bugetul local de nivelul II"
+143242,"Amenzi aplicate de subdiviziunile Inspectoratului General al Politiei pentru incalcarea traficului rutier constatate cu ajutorul mijloacelor foto-video, incasate in bugetul local de nivelul I"
+143311,Amenzi aplicate de Inspectia financiara incasate in bugetul de stat
+143312,Amenzi aplicate de Inspectia financiara incasate in bugetul local de nivelul II
+143321,Amenzi aplicate de catre organele Serviciului Fiscal de Stat incasate in bugetul de stat
+143322,Amenzi aplicate de catre organele Serviciului Fiscal de Stat incasate in bugetul fondurilor asigurarilor obligatorii de asistenta medicala
+143323,Amenzi contraventionale aplicate de organele Serviciului Fiscal de Stat
+143324,Amenzi contraventionale aplicate de organele Serviciului Fiscal de Stat pentru incalcarea termenelor de repatriere a mijloacelor materiale si mijloacelor banesti
+143325,Amenzi contraventionale aplicate de catre Serviciul Fiscal de Stat incasate in fondurile asigurarii obligatorii de asistenta medicala
+143326,Majorarea de intirziere aplicata executorilor judecatoresti conform Codului fiscal
+143340,Amenzi aplicate de organele Serviciului Vamal
+143350,Amenzi aplicate de Politia de Frontiera
+143410,Amenzi aplicate de Agentia pentru Supraveghere Tehnica
+143420,Amenzi aplicate de instantele judecatoresti in cauze contraventionale si penale
+143430,Amenzi aferente platilor la bugetul asigurarilor sociale de stat
+143450,Amenzi aplicate de Agentia Nationala pentru Sanatate Publica
+143460,Amenzi aplicate de Agentia pentru Protectia Consumatorilor si Supravegherea Pietei
+143470,Amenzi aplicate pentru utilizarea muncii nedeclarate
+143480,Amenzi pentru nerepatrierea la termen a incasarilor valutare
+143491,Alte amenzi si sanctiuni pecuniare incasate in bugetul de stat
+143492,Alte amenzi ii sanctiuni pecuniare incasate in bugetul local de nivelul II
+143493,Alte amenzi si sanctiuni pecuniare incasate in bugetul local de nivelul I
+144111,Donatii voluntare pentru cheltuieli curente din surse interne pentru sustinerea bugetului de stat
+144112,Donatii voluntare pentru cheltuieli curente din surse interne pentru sustinerea bugetului local de nivelul 2
+144113,Donatii voluntare pentru cheltuieli curente din surse interne pentru sustinerea bugetului local de nivelul 1
+144114,Donatii voluntare pentru cheltuieli curente din surse interne pentru institutiile bugetare
+144121,Donatii voluntare pentru cheltuieli curente din surse externe pentru sustinerea bugetului de stat
+144122,Donatii voluntare pentru cheltuieli curente din surse externe pentru sustinerea bugetului local de nivelul II
+144123,Donatii voluntare pentru cheltuili curente din susre externe pentru sustinerea bugetului local de nivelul I
+144124,Donatii voluntare pentru cheltuieli curente din surse externe pentru institutiile bugetare
+144211,Donatii voluntare pentru cheltuieli capitale din surse interne pentru sustinerea bugetului de stat
+144212,Donatii voluntare pentru cheltuieli capitale din surse interne pentru sustinerea bugetului local de nivelul 2
+144213,Donatii voluntare pentru cheltuieli capitale din surse interne pentru sustinerea bugetului local de nivelul 1
+144214,Donatii voluntare pentru cheltuieli capitale din surse interne pentru institutiile bugetare
+144221,Donatii voluntare pentru cheltuieli capitale din surse externe pentru sustinerea bugetului de stat
+144222,Donatii voluntare pentru cheltuili capitale din surse externe pentru sustinerea bugetului local de nivelul II
+144223,Donatii voluntare pentru cheltuili capitale din surse externe pentru sustinerea bugetului local de nivelul I
+144224,Donatii voluntare pentru cheltuieli capitale din surse externe pentru institutiile bugetare
+145111,Alte venituri incasate in bugetul de stat
+145112,"Alte venituri incasate in bugetul de stat, administrate de Organele Vamale"
+145120,Plata obligatorie a producatorilor de produse vitivinicole
+145121,Amenzi aplicate de Politia de Frontiera
+145122,Alte venituri incasate in bugetul asigurarilor sociale de stat administrate de catre Casa Nationala de Asigurari Sociale
+145130,Alte venituri incasate in fondurile asigurarii obligatorii de asistenta medicala
+145131,Amenzi aplicate de Politia de Frontiera
+145132,Amenzi aplicate de Politia de Frontiera
+145141,Alte venituri incasate in bugetele locale de nivelul 2
+145142,Alte venituri incasate in bugetele locale de nivelul 1
+145150,Alte venituri pentru proiecte finantate din surse externe
+145161,Impozitul  unic perceput de la rezidentii parcurilor pentru tehnologa informatiei
+145171,Taxa de declarare voluntara a mijloacelor banesti
+145172,Taxa de declarare voluntara a tranzactiilor de vanzare-cumparare a bunurilor imobiliare/mijloacelor de transport
+145173,Taxa de declarare voluntara a tranzactiilor de vanzare-cumparare a valorilor mobiliare
+145174,Taxa de declarare voluntara a tranzactiilor de vanzare-cumparare a cotelor-parti din intreprinderi
+145175,Taxa de declarare voluntara a diferentelor pozitive rezultate din reevaluarea bunurilor imobiliare/mijloacelor de transport
+145181,Recuperarea creantei/restantei fiscale conform aplicarii prevederilor tratatelor internationale  ale Republicii Moldova
+191111,"Transferuri curente primite cu destinatie speciala  intre bugetul de stat si bugetele locale de nivelul II pentru invatamintul prescolar, primar, secundar general, special ?i complementar (extrascolar)"
+191112,Transferuri curente primite cu destinatie speciala  intre bugetul de stat si bugetele locale de nivelul II pentru asigurarea si asistenta sociala
+191113,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul II pentru scoli sportive
+191114,Transferuri curente primite cu destinatie speciala  intre bugetul de stat si bugetele locale de nivelul II pentru alte competente delegate
+191115,Alte transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul II
+191116,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul 2 pentru infrastructura drumurilor
+191120,Transferuri capitale primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul 2
+191131,Transferuri curente primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul II
+191132,Transferuri curente primite cu destinatie generala din fondul de compensare intre bugetul de stat si bugetele locale de nivelul II
+191139,Alte transferuri curente primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul II
+191140,Transferuri capitale primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul 2
+191211,"Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul I pentru invatamantul prescolar, primar, secundar general, special ?i complementar (extrascolar)"
+191212,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul I pentru asigurarea si asistenta sociala
+191213,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul I pentru scolile sportive
+191214,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul I pentru alte competente delegate
+191215,Alte transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul I
+191216,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul 1 pentru infrastructura drumurilor
+191220,Transferuri capitale primite cu destinatie speciala intre bugetul de stat si bugetele locale de nivelul 1
+191231,Transferuri curente primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul I
+191232,Transferuri curente primite cu destinatie generala din fondul de compensare intre bugetul de stat si bugetele locale de nivelul I
+191239,Alte transferuri curente primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul 1
+191240,Transferuri capitale primite cu destinatie generala intre bugetul de stat si bugetele locale de nivelul 1
+191310,Transferuri curente primite cu destinatie speciala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 2
+191320,Transferuri capitale primite cu destinatie speciala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 2
+191330,Transferuri curente primite cu destinatie generala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 2
+191340,Transferuri capitale primite cu destinatie generala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 2
+191410,Transferuri curente primite cu destinatie speciala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 1
+191420,Transferuri capitale primite cu destinatie speciala intre institutiile bugetului de stat si institutiile bugetelor localele de nivelul 1
+191430,Transferuri curente primite cu destinatie generala intre institutiile bugetului de stat si institutiile bugetelor locale de nivelul 1
+191440,Transferuri capitale primite cu destinatie generala intre institutiile bugetului de stat si institutiile bugetelor localee de nivelul 1
+192110,Transferuri curente primite cu destinatie speciala intre bugetul de stat si bugetul asigurarilor sociale de stat
+192120,Transferuri capitale primite cu destinatie speciala intre bugetul de stat si bugetul asigurarilor sociale de stat
+192130,Transferuri curente primite cu destinatie generala intre bugetul de stat si bugetul asigurarilor sociale de stat
+192140,Transferuri capitale primite cu destinatie generala intre bugetul de stat si bugetul asigurarilor sociale de stat
+192210,Transferuri curente primite cu destinatie speciala intre bugetul de stat si fondurile asigurarii obligatorii de asistenta medicala
+192220,Transferuri capitale primite cu destinatie speciala intre bugetul de stat si fondurile asigurarii obligatorii de asistenta medicala
+192230,Transferuri curente primite cu destinatie generala intre bugetul de stat si fondurile asigurarii obligatorii de asistenta medicala
+192240,Transferuri capitale primite cu destinatie generala intre bugetul de stat si fondurile asigurarii obligatorii de asistenta medicala
+192310,Transferuri curente primite cu destinatie speciala intre institutiile din cadrul bugetului de stat
+192320,Transferuri capitale primite cu destinatie speciala intre institutiile din cadrul bugetului de stat
+192330,Transferuri curente primite cu destinatie generala intre institutiile din cadrul bugetului de stat
+192340,Transferuri capitale primite cu destinatie generala intre institutiile din cadrul bugetului de stat
+193111,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul II si bugetele locale de nivelul I in cadrul unei unitati administrativ-teritoriale
+193112,"Transferuri curente primite cu destinatie speciala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I pentru invatamintul prescolar, primar, secundar general, special si complementar (extrascolar)"
+193113,Transferuri curente primite cu destinatie speciala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I pentru asigurarea si asistenta sociala
+193114,Transferuri curente primite cu destinatie speciala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I pentru scolile sportive
+193115,Transferuri curente primite cu destinatie speciala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I pentru alte competente delegate
+193116,Transferuri curente primite cu destinatie speciala intre bugetul central al unitati teritoriale autonome cu statut juridic special si bugetele locale de nivelul 1 pentru infrastructura drumurilor
+193120,Transferuri capitale primite cu destinatie speciala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193131,Transferuri curente primite cu destinatie generala intre bugetele locale de nivelul II si bugetele locale de nivelul I in cadrul unei unitati administrativ-teritoriale
+193132,Transferuri curente primite cu destinatie generala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I din cadrul acestei unitati administrativ-teritoriale
+193133,Transferuri curente primite cu destinatie generala din fondul de compensare intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I din cadrul acestei unitati administrativ-teritoriale
+193141,Transferuri capitale primite cu destinatie generala intre bugetele locale de nivelul II si bugetele locale de nivelul I in cadrul unei unitati administrativ-teritoriale
+193142,Transferuri capitale primite cu destinatie generala intre bugetul central al unitatii teritoriale autonome cu statut juridic special si bugetele locale de nivelul I din cadrul acestei unitati administrativ-teritoriale
+193210,Transferuri curente primite cu destinatie speciala in cadrul unui buget local de nivelul 2
+193220,Transferuri capitale primite cu destinatie speciala in cadrul unui buget local de nivelul 2
+193230,Transferuri curente primite cu destinatie generala in cadrul unui buget local de nivelul 2
+193240,Transferuri capitale primite cu destinatie generala in cadrul unui buget local de nivelul 2
+193310,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193320,Transferuri capitale primite cu destinatie speciala intre bugetele locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193330,Transferuri curente primite cu destinatie generala intre bugetele locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193340,Transferuri capitale primite cu destinatie generala intre bugetele locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193410,Transferuri curente primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193420,Transferuri capitale primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193430,Transferuri curente primite cu destinatie generala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193440,Transferuri capitale primite cu destinatie generala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193510,Transferuri curente primite cu destinatie speciala intre institutiile din cadrul unui buget local de nivelul 2
+193520,Transferuri capitale primite cu destinatie speciala intre institutiile din cadrul unui buget local de nivelul 2
+193530,Transferuri curente primite cu destinatie generala intre institutiile din cadrul unui buget local de nivelul 2
+193540,Transferuri capitale primite cu destinatie generala  intre institutiile din cadrul unui buget local de nivelul 2
+193610,Transferuri curente primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193620,Transferuri capitale primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193630,Transferuri curente primite cu destinatie generala intre institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193640,Transferuri capitale primite cu destinatie generala intre institutiile bugetelor locale de nivelul 1 in cadrul unei unitati administrativ-teritoriale
+193710,Transferuri curente primite cu destinatie speciala intre institutiile din cadrul unui buget local de nivelul 1
+193720,Transferuri capitale primite cu destinatie speciala intre institutiile din cadrul unui buget local de nivelul 1
+193730,Transferuri curente primite cu destinatie generala intre institutiile din cadrul unui buget local de nivelul 1
+193740,Transferuri capitale primite cu destinatie generala intre institutiile din cadrul unui buget local de nivelul 1
+194110,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194120,Transferuri capitale primite cu destinatie speciala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194130,Transferuri curente primite cu destinatie generala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194140,Transferuri capitale primite cu destinatie generala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194210,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194220,Transferuri capitale primite cu destinatie speciala intre bugetele locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194230,Transferuri curente primite cu destinatie generala intre bugetele locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194240,Transferuri capitale primite cu destinatie generala intre bugetele locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194310,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194320,Transferuri capitale primite cu destinatie speciala intre bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194330,Transferuri curente primite cu destinatie generala intre bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194340,Transferuri capitale primite cu destinatie generala intre bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194410,Transferuri curente primite cu destinatie speciala intre bugetele locale de nivelul 2 si bugetele locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194420,Transferuri capitale primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194430,Transferuri curente primite cu destinatie generala intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 intre dintre unitati administrativ-teritoriale
+194440,Transferuri capitale primite cu destinatie generala  intre institutiile bugetelor locale de nivelul 2 si institutiile bugetelor locale de nivelul 1 intre  diferite unitati administrativ-teritoriale
+194510,Transferuri curente primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194520,Transferuri capitale primite cu destinatie speciala  intre institutiile bugetelor locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194530,Transferuri curente primite cu destinatie generala intre institutiile bugetelor locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194540,Transferuri capitale primite cu destinatie generala intre institutiile bugetelor locale de nivelul 2 intre diferite unitati administrativ-teritoriale
+194610,Transferuri curente primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194620,Transferuri capitale primite cu destinatie speciala intre institutiile bugetelor locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194630,Transferuri curente primite cu destinatie generala intre institutiile bugetelor locale de nivelul 1 intre diferite unitati administrativ-teritoriale
+194640,Transferuri capitale primite cu destinatie generala intre institutiile bugetelor locale de nivelul 1 intre diferite unitati administrativ-teritoriale
